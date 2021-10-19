@@ -5,6 +5,7 @@ public class StringPractise {
 
         System.out.println("this is string");
         System.out.println("test");
+        System.out.println("this is string");
     }
 
 }
